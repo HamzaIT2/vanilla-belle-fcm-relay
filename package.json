@@ -1,0 +1,9 @@
+{
+  "name": "vanilla-belle-fcm-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "سكربت مستقل يراقب طلبات فانيلا بيل ويرسل إشعارات FCM حقيقية",
+  "dependencies": {
+    "firebase-admin": "^12.7.0"
+  }
+}
